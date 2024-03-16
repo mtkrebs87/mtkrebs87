@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtkrebs87
+- 👋 Hi, I’m Michael Krebs (@mtkrebs87).
 - 👀 I’m interested in all things data! I love seeing interesting visuals and learning new insights from various datasets.
 - 🌱 I’m currently learning all things SQL!!! I've had some exposure to SQL in my data analytics and visualizations course but I'm revisitng to further hone my skills.
 - 💞️ I’m looking to collaborate on any data project!!!
